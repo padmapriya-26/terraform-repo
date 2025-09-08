@@ -1,3 +1,4 @@
 .terraform/
-*terraform.tfstatefile/
-*terraform.tfstate.backup/
+*.tfstatefile/
+*.tfstate.backup/
+*.lock.hcl/
